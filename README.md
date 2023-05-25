@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Kiwi from Sri Lanka
+[![](https://raw.githubusercontent.com/jasonlong/jasonlong/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)](https://twitter.com/jasonlong)
+
+<!-- - 👋 Hi, I’m Kiwi from Sri Lanka
 - 👀 I’m interested in innovative products
 - 🌱 I’m currently learning almost everything
 - 💞️ I’m looking to collaborate on anything on innovation and change
@@ -6,7 +8,7 @@
 
 
 ### Hi there 👋, I'm Kiwi
-
+ -->
 <br/>
 
 
