@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/kiwizu3/kiwizu3/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)](https://twitter.com/jasonlong)
+[![](https://raw.githubusercontent.com/kiwizu3/kiwizu3/main/chat.svg)](https://twitter.com/jasonlong)
 
 <!-- - 👋 Hi, I’m Kiwi from Sri Lanka
 - 👀 I’m interested in innovative products
