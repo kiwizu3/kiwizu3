@@ -29,7 +29,7 @@
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lakinduakash)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@kiwiyaa-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kiwiyaa/)](https://twitter.com/kiwiyaa)
+[![Twitter Badge](https://img.shields.io/badge/-@kaayaasu-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kaayaasu/)](https://twitter.com/kaayaasu)
 <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://preciousimo.herokuapp.com/)](https://preciousimo.herokuapp.com/) -->
 <br />
 
